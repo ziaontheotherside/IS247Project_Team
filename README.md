@@ -1,7 +1,7 @@
-# 🏋️‍♂️ Fitness Tracker Console Application  
+# 🏋️‍♂️ MuscleMind, a Fitness Tracker Console Application  
 
 ## 📌 Project Overview  
-The **Fitness Tracker Console Application** is a **Java-based** program designed to help users **log workouts, track calorie burn, and monitor progress over time**. Unlike complex fitness apps that require subscriptions or excessive manual input, our tracker provides a **simple, intuitive experience** for users to track their fitness journey effortlessly.
+**MuscleMind** is a fitness Tracker Console Application** is a **Java-based** program designed to help users **log workouts, track calorie burn, and monitor progress over time**. Unlike complex fitness apps that require subscriptions or excessive manual input, our tracker provides a **simple, intuitive experience** for users to track their fitness journey effortlessly.
 
 This tracker logs **workout duration, type, and intensity** while also recording **user weight, gender, goal weight, age, and height**. Users can **view their workout history, track calories burned, and monitor their fitness improvements.**
 
@@ -22,7 +22,7 @@ This tracker logs **workout duration, type, and intensity** while also recording
 ## 💡 Problem Statement  
 Many individuals struggle with tracking their fitness progress effectively. Existing fitness apps tend to be **overly complicated**, requiring **extensive manual input** or **subscription fees**, making it difficult for users to maintain consistent workout logs.
 
-Our **Fitness Tracker Console Application** solves this by offering a **simple, structured, and efficient** way to:  
+**MuscleMind** solves this by offering a **simple, structured, and efficient** way to:  
 ✔ Log **workout details** (duration, type, intensity).  
 ✔ Store **user health metrics** (weight, gender, goal weight, age, height).  
 ✔ Track **calories burned and workout history**.  
