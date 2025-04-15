@@ -90,3 +90,12 @@ This project is **open-source** and licensed under the MIT License.
 For any questions, issues, or feature requests, please open an issue on the **GitHub repository**.
 
 ---
+## 📚 JavaDocs Documentation
+
+This project uses **JavaDoc** to create clean, browsable documentation for all the classes and methods. We added JavaDoc-style comments to each class (`Main`, `UserInfo`, etc.), explaining what the class does, its authorship, and how each method works.
+
+The documentation was generated using the following command:
+
+```bash
+javadoc -d docs src/*.java
+
